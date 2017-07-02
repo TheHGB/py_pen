@@ -1,3 +1,4 @@
+#This is a cheap version of airodump-ng
 import socket
 
 s = socket.socket(socket.AF_PACKET, socket.SOCK_RAW, 3)
